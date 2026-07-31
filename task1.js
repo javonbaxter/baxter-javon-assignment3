@@ -3,8 +3,8 @@
       Project 06-01
 
       Project to validate a form used for setting up a new account
-      Author:
-      Date:
+      Author: Javon Baxter
+      Date: July 30, 2026
 
       Filename: task1.js
 */
